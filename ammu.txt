@@ -1,3 +1,5 @@
 this is git
 welcome to git practice
 git is lightweight
+git is coll
+git is easy
